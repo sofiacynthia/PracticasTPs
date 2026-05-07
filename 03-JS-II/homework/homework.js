@@ -96,7 +96,6 @@ function estaEnRango(numero) {
   } else {
     return false;
   }
-
 }
 
 function esEntero(numero) {
